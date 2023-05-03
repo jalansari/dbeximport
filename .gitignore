@@ -1,0 +1,6 @@
+dbeximport/
+**/*.pyc
+**/*.csv
+**/*.sqlite3
+**/__pycache__/
+
